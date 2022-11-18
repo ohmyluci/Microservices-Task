@@ -9,18 +9,13 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>platform-services</artifactId>
+    <artifactId>business-services</artifactId>
     <packaging>pom</packaging>
-    <modules>
-        <module>discovery</module>
-        <module>apigateway</module>
-        <module>config-server</module>
-    </modules>
 
-    <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
+    <modules>
+        <module>one</module>
+        <module>two</module>
+        <module>two-api</module>
+    </modules>
 
 </project>

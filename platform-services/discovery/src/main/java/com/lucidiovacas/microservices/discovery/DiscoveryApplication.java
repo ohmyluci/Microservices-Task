@@ -1,4 +1,4 @@
-package com.lucidiovacas.microservices;
+package com.lucidiovacas.microservices.discovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
